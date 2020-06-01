@@ -1,0 +1,4 @@
+#Fri May 29 14:16:47 KST 2020
+base.0=C\:\\Users\\NCJ\\AndroidStudioProjects\\samp2fj\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
